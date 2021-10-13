@@ -1,12 +1,12 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name={APP.NAME}
-GenericName={APP.GENERIC_NAME}
-Comment={APP.COMMENT}
-Categories={APP.CATEGORIES}
-Exec=com.github.{GITHUB.ORG}.{GITHUB.APP}
-Icon=com.github.{GITHUB.ORG}.{GITHUB.APP}
+Name=scritch
+GenericName=Scratch Pad
+Comment=scritch
+Categories=Utility
+Exec=com.github.opensussex.scritch_app
+Icon=com.github.opensussex.scritch_app
 Terminal=false
-Keywords={APP.KEYWORDS}
+Keywords=Scratch Pad;Text Editor;Editor
 X-GNOME-UsesNotifications=true
